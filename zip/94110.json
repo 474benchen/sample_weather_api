@@ -1,0 +1,10 @@
+{
+  "zip": "94110",
+  "timestamp": "2025-01-15T12:00:00Z",
+  "temperature_f": 61.2,
+  "wind_speed_mph": 5.4,
+  "precipitation_in": 0.02,
+  "relative_humidity_pct": 68,
+  "daily_fire_danger_index": 2,
+  "daily_flood_index": 1
+}

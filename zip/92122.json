@@ -1,0 +1,10 @@
+{
+  "zip": "92122",
+  "timestamp": "2025-01-15T12:20:00Z",
+  "temperature_f": 48.9,
+  "wind_speed_mph": 9.3,
+  "precipitation_in": 0.00,
+  "relative_humidity_pct": 35,
+  "daily_fire_danger_index": 3,
+  "daily_flood_index": 1
+}

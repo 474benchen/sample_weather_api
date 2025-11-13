@@ -1,0 +1,10 @@
+{
+  "zip": "90001",
+  "timestamp": "2025-01-15T12:10:00Z",
+  "temperature_f": 74.3,
+  "wind_speed_mph": 6.2,
+  "precipitation_in": 0.00,
+  "relative_humidity_pct": 42,
+  "daily_fire_danger_index": 4,
+  "daily_flood_index": 1
+}

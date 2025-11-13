@@ -1,0 +1,10 @@
+{
+  "zip": "95616",
+  "timestamp": "2025-01-15T12:15:00Z",
+  "temperature_f": 68.5,
+  "wind_speed_mph": 7.1,
+  "precipitation_in": 0.00,
+  "relative_humidity_pct": 38,
+  "daily_fire_danger_index": 4,
+  "daily_flood_index": 1
+}
